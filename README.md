@@ -1,4 +1,8 @@
-## Live version on Netlify
+## Live version on Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5efa7926-4d34-42c7-857b-0fa5441f5a10/deploy-status)](https://app.netlify.com/sites/priceless-lalande-c8081a/deploys)
+
+https://priceless-lalande-c8081a.netlify.app/
 
 ## About the app
 
