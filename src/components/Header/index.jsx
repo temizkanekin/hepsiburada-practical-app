@@ -95,7 +95,7 @@ const Header = () => {
         className={styles["header__search-area"]}
         placeholder="25 milyon'dan fazla ürün içerisinde ara"
         onChange={handleSearch}
-        value={searchText}
+        defaultValue={searchText}
         data-testid='header-search-area'
       />
       <img
