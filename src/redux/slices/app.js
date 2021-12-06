@@ -16,7 +16,7 @@ export const appSlice = createSlice({
       state.cart = action.payload;
     },
     setSortType: (state, action) => {
-      if (state.sortType === action.payload) state.sortType = undefined;
+      if (state.sortType === action.payload) state.sortType = "";
       else state.sortType = action.payload;
     },
     addItemToCart: (state, action) => {

@@ -9,7 +9,6 @@ https://priceless-lalande-c8081a.netlify.app/
 - The app is built with [React](https://reactjs.org/) + [Redux](https://redux.js.org/). No extra component libraries or css frameworks are used.
 - Each component has its own unit test folder, tests with coverages can be run via `yarn test:coverage` command.
 - Mock products and cart items can be found under `products` and `cart` keys in local storage.
-- All the requirements in the case study are satisfied.
 - Multiple filtering is possible.
 - After the filtering, the sort preference is preserved.
 - Side panel and select box sort options are synced.
